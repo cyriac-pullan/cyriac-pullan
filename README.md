@@ -1,235 +1,92 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=CYRIAC%20PAUL%20PULLAN&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Innovation%20Architect&descAlignY=55&descSize=20" />
-
-<!-- Animated Typing with Gradient -->
+<!-- CYBERPUNK TYPING INTRO (GLOWING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=%3E+Initializing+Neural+Networks...;%3E+Loading+AI+Models...;%3E+Deploying+Full-Stack+Solutions...;%3E+Building+The+Future+of+Tech...;%3E+Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+%F0%9F%91%8B;I'M+CYRIAC+PAUL+PULLAN;AI+%26+ML+ENGINEER;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE+OF+AI" alt="Neon Typing Intro">
 </p>
 
-<!-- Neon Title with Animation -->
+<!-- GLOWING DIVIDER -->
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MODE-INNOVATING-FF00FF?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=FF00FF" />
-  <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FFFF?style=for-the-badge&labelColor=000000&logo=arduino&logoColor=00FFFF" />
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/neon-divider.gif" width="100%">
 </div>
 
-<br/>
+<!-- CYBERPUNK HERO -->
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF;">CYRIAC PAUL PULLAN</h1>
+<p align="center">
+  <strong style="color: #FF2A6D;">B.Tech — Artificial Intelligence & Data Science</strong> <br>
+  <em style="color: #05F0FF;">Full-Stack Dev · AI Engineer · Assistive Tech Innovator</em>
+</p>
 
-<!-- Holographic Profile Card -->
+<!-- NEON SOCIAL BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyriac-pullan-369621282/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=00F7FF"></a>
+  <a href="https://github.com/cyriac-pullan"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FF2A6D"></a>
+  <a href="mailto:cyriac880@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=05F0FF"></a>
+  <a href="https://cyriac-pullan.github.io/portfolio/"><img src="https://img.shields.io/badge/-PORTFOLIO-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=FF2A6D"></a>
+</p>
+
+<!-- GLOWING DIVIDER -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=cyriac-pullan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF" />
-      </td>
-      <td>
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=cyriac-pullan&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/neon-divider.gif" width="100%">
 </div>
 
-<!-- Animated Bio Section -->
-<img align="right" width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+## 🔥 **CORE EXPERTISE**
+> *"Turning research into reality with AI, full-stack dev, and embedded systems."*
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> SYSTEM.PROFILE
+<p align="center">
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/tech-stack-neon.gif" width="600">
+</p>
 
-```python
-class CyriacPaulPullan:
-    def __init__(self):
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.education = "B.Tech AI & Data Science"
-        self.location = "Kerala, India 🇮🇳"
-        self.current_focus = ["Healthcare AI", "Assistive Tech", "WebGL/3D"]
-        self.achievements = ["🏆 3x Hackathon Winner", "🎯 GATE Qualified", "🚀 10+ AI Projects"]
-        
-    def currently_working_on(self):
-        return "Building AI that makes healthcare accessible to everyone 🏥"
-```
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> TECH ARSENAL
-
+<!-- GLOWING TECH STACK -->
 <div align="center">
-
-### 🧠 AI/ML CORE
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-### ⚡ FULL-STACK POWER
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🔧 SYSTEMS & TOOLS
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=00F7FF">
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black&color=FF2A6D">
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black&color=05F0FF">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black&color=00F7FF">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=FF2A6D">
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black&color=05F0FF">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=00F7FF">
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black&color=FF2A6D">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=black&color=05F0FF">
 </div>
 
----
-
-## 🚀 FLAGSHIP PROJECTS
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏥 CuraBot - AI Healthcare Revolution</h3>
-      <p align="center">
-        <a href="https://github.com/cyriac-pullan/Cura-bot">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/OCR-FF00FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/NLP-00FFFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-00FF00?style=flat-square" />
-      </p>
-      <p><strong>🎯 Impact:</strong> Automates 70% of routine clinic tasks</p>
-      <p><strong>⚡ Features:</strong> Appointment booking, emergency triage, prescription OCR analysis, symptom checker</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👓 Smart Spectacles - Assistive Vision</h3>
-      <p align="center">
-        <a href="https://github.com/cyriac-pullan/Smart-Spectacles">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/YOLO-FF0000?style=flat-square" />
-        <img src="https://img.shields.io/badge/ESP32-00FF00?style=flat-square" />
-        <img src="https://img.shields.io/badge/TTS-0000FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-FFFF00?style=flat-square" />
-      </p>
-      <p><strong>🎯 Impact:</strong> Real-time assistance for 1M+ visually impaired</p>
-      <p><strong>⚡ Features:</strong> Object detection, navigation, text reading, scene description</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Smart-Acad - Educational AI Platform</h3>
-      <p align="center">
-        <a href="https://github.com/cyriac-pullan/Smart-Acad">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GPT-00FF00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Analytics-FF00FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-00FFFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-FFFF00?style=flat-square" />
-      </p>
-      <p><strong>🎯 Impact:</strong> Reduces educator workload by 60%</p>
-      <p><strong>⚡ Features:</strong> Auto question generation, CO/PO mapping, performance analytics</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 Market Maven - Sales Forecasting</h3>
-      <p align="center">
-        <a href="https://github.com/cyriac-pullan/Market-Maven">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-FFFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ARIMA-FF0000?style=flat-square" />
-        <img src="https://img.shields.io/badge/LSTM-00FF00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prophet-0000FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF00FF?style=flat-square" />
-      </p>
-      <p><strong>🎯 Impact:</strong> 94% forecast accuracy for retail chains</p>
-      <p><strong>⚡ Features:</strong> Time-series analysis, demand prediction, inventory optimization</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 ACHIEVEMENT MATRIX
-
+<!-- GLOWING DIVIDER -->
 <div align="center">
-
-| 🥇 **HACKATHONS** | 🎯 **CERTIFICATIONS** | 📊 **METRICS** |
-|:---:|:---:|:---:|
-| **Eden Hackathon 2025** - 1st Prize | **GATE 2025** - Qualified (AI & DS) | **10+** Production Projects |
-| **ICTAK TECHATHLON 2025** - 1st Prize | **NPTEL** - DSA with Python | **50K+** Lines of Code |
-| **INNOVISION 2k25** - 1st Prize | **Infosys** - AI/ML Certification | **3** Patents Pending |
-| **amFOSS GenAI** - 3rd National | **AWS** - Cloud Practitioner | **100+** GitHub Stars |
-
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/neon-divider.gif" width="100%">
 </div>
 
----
+## 🚀 **SHOWCASE PROJECTS**
+> *High-impact AI/ML and full-stack systems — click to explore.*
 
-## 📡 CONNECT TO MY NETWORK
+| Project | Tech Stack | Description | Demo |
+|---------|------------|-------------|------|
+| **[CuraBot](https://github.com/cyriac-pullan/Cura-bot)** | `Python` `Flask` `NLP` `OCR` | AI healthcare chatbot for triage, appointments, and prescriptions. | ![Demo](https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/curabot-demo.gif) |
+| **[Smart Spectacles](https://github.com/cyriac-pullan/Smart-Spectacles)** | `YOLO` `ESP32` `Python` | Wearable AI for visually impaired users (object detection + navigation). | ![Demo](https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/spectacles-demo.gif) |
+| **[Smart-Acad](https://github.com/cyriac-pullan/Smart-Acad)** | `React` `Node.js` `NLP` | AI-powered academic dashboard with auto-assessment and analytics. | ![Demo](https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/smartacad-demo.gif) |
 
+<!-- GLOWING DIVIDER -->
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyriac-pullan-369621282/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyriac-pullan.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyriac880@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyriac-pullan)
-
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/neon-divider.gif" width="100%">
 </div>
 
----
-
-## 📊 PERFORMANCE METRICS
-
-<div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyriac-pullan&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=FF00FF&point=00FFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyriac-pullan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FFFF" />
-</div>
-
----
-
-## 🎮 CURRENT QUEST
-
-```javascript
-const currentMission = {
-  project: "Building AI-powered healthcare solutions",
-  learning: ["WebGPU", "Rust", "Quantum Computing"],
-  goal: "Make technology accessible to everyone",
-  coffee_consumed: "∞",
-  bugs_squashed: "countless",
-  features_shipped: "always one more..."
-};
-```
-
----
+## 🏆 **ACHIEVEMENTS**
+> *Hackathons, certifications, and milestones.*
 
 <div align="center">
-  
-### 💫 VISITOR COUNTER
-  
-![Visitor Count](https://profile-counter.glitch.me/cyriac-pullan/count.svg)
-
-### 🌟 SHOW SOME LOVE
-⭐ Star my repos if you find them interesting!
-
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/trophy.gif" width="50">
 </div>
 
----
+- 🥇 **1st Place** — Eden Hackathon 2025 (*AI/ML Track*)
+- 🥇 **1st Place** — ICTAK TECHATHLON 2025 (*Full-Stack Dev*)
+- 🥉 **3rd Place** — National Generative AI Hackathon (*amFOSS*)
+- ✅ **GATE 2025 Qualified** — AI & Data Science
+- 📜 **NPTEL Certified** — Python, Algorithms, Data Structures
 
-<!-- Dynamic Quote -->
+<!-- GLOWING STATS -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyriac-pullan&show_icons=true&hide_border=true&theme=radical&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&icon_color=FF2A6D" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyriac-pullan&layout=compact&hide_border=true&theme=radical&bg_color=000000&title_color=FF2A6D&text_color=FFFFFF" width="48%">
 </div>
 
-<!-- Snake Animation -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/cyriac-pullan/cyriac-pullan/blob/main/assets/cyberpunk-footer.gif" width="100%">
 </div>
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" />
